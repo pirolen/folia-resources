@@ -5,7 +5,7 @@
     <class xml:id="chapter" label="Chapter"/>
     <class xml:id="section" label="Section"/>
     <class xml:id="subsection" label="Subsection"/>
-     <class xml:id="page" label="Page"/>
+    <class xml:id="page" label="Page"/>
     <class xml:id="abstract" label="Abstract"/>
     <class xml:id="introduction" label="Introduction"/>
     <class xml:id="conclusion" label="Conclusion"/>
