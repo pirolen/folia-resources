@@ -3,5 +3,10 @@
     <!-- NOTE: this legacy version is no longer updated, use the TTL version instead! -->
     <class xml:id="loc" label="Location" />
     <class xml:id="misc" label="Miscellaneous" />
-    <class xml:id="pgel" label="pgEl" />
+    <class xml:id="pgelem" label="pageElem" >
+        <class xml:id="pgelem.marg" label="pageElem-Marginalia" />
+        <class xml:id="pgelem.sig" label="pageElem-Sigle" />
+        <class xml:id="pgelem.div" label="pageElem-DivPosition" />    
+        <class xml:id="pgelem.oth" label="pageElem-Other">
+     </class>
 </set>
