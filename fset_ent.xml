@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <set xml:id="namedentities" type="closed" xmlns="https://github.com/pirolen/" >
     <class xml:id="per" label="Person" conceptlink="http://www.isocat.org/datcat/DC-2978" >
-        <class xml:id="per.auth" label="Person - Author" />
+<!--         <class xml:id="per.auth" label="Person - Author" />
         <class xml:id="per.hist" label="Person - Historical" />
         <class xml:id="per.oth" label="Person - Other">
         </class>
@@ -22,5 +22,5 @@
     <class xml:id="org" label="Organisation" conceptlink="http://www.isocat.org/datcat/DC-2979" />
     <class xml:id="pro" label="Publication" />
     <class xml:id="eve" label="Event" />
-    <class xml:id="misc" label="Miscellaneous" />
+    <class xml:id="misc" label="Miscellaneous" /> -->
 </set>
