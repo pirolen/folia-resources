@@ -18,7 +18,7 @@
         <class xml:id="pgel.div" label="pgEl - Div" />    
         <class xml:id="pgel.oth" label="pgEl - Other">
         </class>
-    <class xml:id="loc" label="Location">      
+    <class xml:id="loc" label="Location" />      
     <class xml:id="org" label="Organisation" conceptlink="http://www.isocat.org/datcat/DC-2979" />
     <class xml:id="pro" label="Publication" />
     <class xml:id="eve" label="Event" />
