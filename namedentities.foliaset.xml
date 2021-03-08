@@ -11,11 +11,11 @@
         <class xml:id="per.oth" label="Person-Other" />
     </class>
     <class xml:id="dterm" label="dTerm" >
-        <class xml:id="dterm.pol" label="dTerm-PolitScience" />
+        <class xml:id="dterm.polsci" label="dTerm-PolitScience" />
         <class xml:id="dterm.econ" label="dTerm-Economy" />
         <class xml:id="dterm.phil" label="dTerm-Philosophy" />
         <class xml:id="dterm.soc" label="dTerm-Sociology" />
-        <class xml:id="dterm.soc" label="dTerm-SociPolitics" />
+        <class xml:id="dterm.socpol" label="dTerm-SocioPolitics" />
         <class xml:id="dterm.oth" label="dTerm-Other" />
     </class>
     <class xml:id="pgelem" label="pageElem" >
@@ -32,5 +32,6 @@
          <class xml:id="docelem.title" label="docElem-Title" />
          <class xml:id="docelem.subtitle" label="docElem-Subtitle" />
          <class xml:id="docelem.subsubtitle" label="docElem-Subsubtitle" />
+         <class xml:id="docelem.oth" label="docElem-Other" />
       </class>
 </set>
