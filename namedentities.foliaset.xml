@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <set xml:id="namedentities" type="closed" xmlns="http://ilk.uvt.nl/folia" conceptlink="http://www.isocat.org/datcat/DC-2275">
-    <!-- NOTE: this legacy version is no longer updated, use the TTL version instead! -->
-    <class xml:id="loc" label="Location" />
-    <class xml:id="misc" label="Miscellaneous" />
+    <!-- NOTE: test version of named entities -->
+    <class xml:id="loc" label="Location" />    
+    <class xml:id="org" label="Organisation" conceptlink="http://www.isocat.org/datcat/DC-2979" />
+    <class xml:id="pro" label="Publication" />
+    <class xml:id="eve" label="Event" />
+    <class xml:id="per" label="Person" conceptlink="http://www.isocat.org/datcat/DC-2978" >
+        <class xml:id="per.auth" label="Person-Author" />
+        <class xml:id="per.hist" label="Person-Historical" />
+        <class xml:id="per.oth" label="Person-Other" />
+    </class>
+    <class xml:id="dterm" label="dTerm" >
+        <class xml:id="dterm.pol" label="dTerm-PolitScience" />
+        <class xml:id="dterm.econ" label="dTerm-Economy" />
+        <class xml:id="dterm.phil" label="dTerm-Philosophy" />
+        <class xml:id="dterm.soc" label="dTerm-Sociology" />
+        <class xml:id="dterm.oth" label="dTerm-Other" />
+    </class>
     <class xml:id="pgelem" label="pageElem" >
         <class xml:id="pgelem.marg" label="pageElem-Marginalia" />
         <class xml:id="pgelem.sig" label="pageElem-Sigle" />
