@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <set xml:id="namedentities" type="closed" xmlns="https://github.com/pirolen/" >
-    <class xml:id="per" label="Person" conceptlink="http://www.isocat.org/datcat/DC-2978" />
+    <class xml:id="per" label="Person" conceptlink="http://www.isocat.org/datcat/DC-2978" >
         <class xml:id="per.auth" label="Person - Author" />
         <class xml:id="per.hist" label="Person - Historical" />
         <class xml:id="per.oth" label="Person - Other">
         </class>
-    <class xml:id="dterm" label="dTerm" />
+    <class xml:id="dterm" label="dTerm" >
         <class xml:id="dterm.pol" label="Term - Political" />
         <class xml:id="dterm.econ" label="Term - Economical" />
         <class xml:id="dterm.phil" label="Term - Philosophical">
         <class xml:id="dterm.soc" label="Term - Sociological">
         <class xml:id="dterm.oth" label="Term - Other">
         </class>
-     <class xml:id="pgel" label="pgEl" />
+     <class xml:id="pgel" label="pgEl" >
         <class xml:id="pgel.marg" label="pgEl - Marginalia" />
         <class xml:id="pgel.sig" label="pgEl - Sigle" />
         <class xml:id="pgel.div" label="pgEl - Div" />    
