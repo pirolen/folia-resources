@@ -7,6 +7,6 @@
         <class xml:id="pgelem.marg" label="pageElem-Marginalia" />
         <class xml:id="pgelem.sig" label="pageElem-Sigle" />
         <class xml:id="pgelem.div" label="pageElem-DivPosition" />    
-        <class xml:id="pgelem.oth" label="pageElem-Other">
+        <class xml:id="pgelem.oth" label="pageElem-Other" />
      </class>
 </set>
