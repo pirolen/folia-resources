@@ -15,12 +15,21 @@
         <class xml:id="dterm.econ" label="dTerm-Economy" />
         <class xml:id="dterm.phil" label="dTerm-Philosophy" />
         <class xml:id="dterm.soc" label="dTerm-Sociology" />
+        <class xml:id="dterm.soc" label="dTerm-SociPolitics" />
         <class xml:id="dterm.oth" label="dTerm-Other" />
     </class>
     <class xml:id="pgelem" label="pageElem" >
         <class xml:id="pgelem.marg" label="pageElem-Marginalia" />
         <class xml:id="pgelem.sig" label="pageElem-Sigle" />
-        <class xml:id="pgelem.div" label="pageElem-DivPosition" />    
+        <class xml:id="pgelem.div" label="pageElem-DivPosition" /> 
+        <class xml:id="pgelem.app1" label="pageElem-App1" />
+        <class xml:id="pgelem.app2" label="pageElem-App2" />
         <class xml:id="pgelem.oth" label="pageElem-Other" />
      </class>
+     <class xml:id="docelem" label="docElem" >
+         <class xml:id="docelem.pgnr" label="docElem-Pagenr" />
+         <class xml:id="docelem.linenr" label="docElem-Linenr" />
+         <class xml:id="docelem.title" label="docElem-Title" />
+         <class xml:id="docelem.subtitle" label="docElem-Subtitle" />
+         <class xml:id="docelem.subsubtitle" label="docElem-Subsubtitle" />
 </set>
