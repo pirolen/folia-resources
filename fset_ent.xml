@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <set xml:id="namedentities" type="closed" xmlns="https://github.com/pirolen/" >
-    <class xml:id="per" label="Person" conceptlink="http://www.isocat.org/datcat/DC-2978" >
+    <class xml:id="per" label="Person" conceptlink="http://www.isocat.org/datcat/DC-2978" />
 <!--         <class xml:id="per.auth" label="Person - Author" />
         <class xml:id="per.hist" label="Person - Historical" />
         <class xml:id="per.oth" label="Person - Other">
