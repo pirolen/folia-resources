@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This set is a test on the folia annotation element: relation -->
+<set xml:id="relation" type="mixed" xmlns="https://github.com/pirolen">
+    <class xml:id="markposition" label="Markerposition"/>
+    <class xml:id="markID" label="MarkerID"/>
+</set>
