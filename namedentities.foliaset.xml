@@ -32,4 +32,5 @@
          <class xml:id="docelem.title" label="docElem-Title" />
          <class xml:id="docelem.subtitle" label="docElem-Subtitle" />
          <class xml:id="docelem.subsubtitle" label="docElem-Subsubtitle" />
+      </class>
 </set>
