@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <set xml:id="namedentities" type="closed" xmlns="http://ilk.uvt.nl/folia" conceptlink="http://www.isocat.org/datcat/DC-2275">
     <!-- NOTE: test version of named entities -->
-    <class xml:id="loc" label="Location" />    
+<!--     <class xml:id="loc" label="Location" />    
     <class xml:id="org" label="Organisation" conceptlink="http://www.isocat.org/datcat/DC-2979" />
     <class xml:id="pro" label="Publication" />
     <class xml:id="eve" label="Event" />
@@ -17,7 +17,7 @@
         <class xml:id="dterm.soc" label="dTerm-Sociology" />
         <class xml:id="dterm.socpol" label="dTerm-SocioPolitics" />
         <class xml:id="dterm.oth" label="dTerm-Other" />
-    </class>
+    </class> -->
     <class xml:id="pgelem" label="pageElem" >
         <class xml:id="pgelem.marg" label="pageElem-Marginalia" />
         <class xml:id="pgelem.sig" label="pageElem-Sigle" />
