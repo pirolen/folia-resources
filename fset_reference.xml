@@ -4,8 +4,7 @@
     <class xml:id="attention" label="Attention"/>
     <class xml:id="note" label="Note"/>
     <class xml:id="ed_footn_anch" label="Ed-Footnote Anchor"/>
-    <class xml:id="ed_footn_body" label="Ed-Footnote Body"/>
     <class xml:id="mw_footn_anch" label="MW-Footnote Anchor"/>
-    <class xml:id="mw_footn_body" label="MW-Footnote Body"/>
+    <class xml:id="footn_body" label="Footnote Body"/>
     <class xml:id="marg_wit" label="Marginalia for Witness"/>
 </set>
