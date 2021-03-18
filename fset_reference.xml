@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- This set is intended for use with the FoLiA structure element: note -->
-<set xml:id="notes" type="mixed" xmlns="http://ilk.uvt.nl/folia">
+<set xml:id="notes_mwgd" type="mixed" xmlns="https://github.com/pirolen">
     <class xml:id="attention" label="Attention"/>
     <class xml:id="error" label="Error"/>
     <class xml:id="note" label="Note"/>
-    <class xml:id="hg_fn" label="Hg-Footnote"/>
+    <class xml:id="hg_fn" label="Ed-Footnote"/>
     <class xml:id="mw_fn" label="MW-Footnote"/>
-    <class xml:id="marg" label="Marginalia"/>
+    <class xml:id="marg" label="App-Sigle"/>
 </set>
