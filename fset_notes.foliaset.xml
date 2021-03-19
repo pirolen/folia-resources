@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- This set is intended for use with the FoLiA structure element: note -->
-<!-- <set xml:id="mwgd_notes" type="mixed" xmlns="https://github.com/pirolen"> -->
-<set xml:id="mwgd_notes" type="closed">
+<set xml:id="mwgd_notes" type="mixed" xmlns="http://ilk.uvt.nl/folia">
+<!-- <set xml:id="mwgd_notes" type="closed"> -->
     <class xml:id="attention" label="Attention"/>
     <class xml:id="note" label="Note"/>
     <class xml:id="footn_body" label="Footnote Body"/>
