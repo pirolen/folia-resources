@@ -1,0 +1,11 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This set is intended for use with the FoLiA structure element: note -->
+<set xml:id="refs_mwgd" type="mixed" xmlns="https://github.com/pirolen">
+    <class xml:id="attention" label="Attention"/>
+    <class xml:id="note" label="Note"/>
+<!--     <class xml:id="ed_footn_anch" label="Ed-Footnote Anchor"/>
+    <class xml:id="mw_footn_anch" label="MW-Footnote Anchor"/> -->
+    <class xml:id="footn_body" label="Footnote Body"/>
+    <class xml:id="marg_wit" label="Marginalia for Witness"/>
+</set>
