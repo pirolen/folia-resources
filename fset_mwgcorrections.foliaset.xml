@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set xml:id="mwgcorrection" type="closed" xmlns="http://ilk.uvt.nl/folia">
+    <class xml:id="regex_target" label="Correctible by Regex" />
+    <class xml:id="spliterr_word" label="Word Split Error" />
+    <class xml:id="runonerr_word" label="Word Runon Error" />
+    <class xml:id="spliterr_par" label="Paragraph Split Error" />
+    <class xml:id="runonerr_par" label="Paragraph Runon Error" />
+    <class xml:id="miss_space" label="Missing Space" />
+    <class xml:id="redund_space" label="Redundant Space" />
+    <class xml:id="wrong_punct" label="Wrong Punctuation" />
+    <class xml:id="miss_punct" label="Missing Punctuation" />
+    <class xml:id="redund_punct" label="Redundant Punctuation" /> 
+    <class xml:id="redund_word" label="Redundant Word" />
+    <class xml:id="miss_word" label="Missing Word" />
+    <class xml:id="misrec_word" label="Misrecognized Word" />
+    <class xml:id="wrong_casing" label="Wrong Casing" />
+    <class xml:id="wrong_alphab" label="Wrong Alphabet" />
+    <class xml:id="wrong_casing" label="Wrong Casing" />
+    <class xml:id="wrong_break" label="Wrong Break" />
+    <class xml:id="wrong_marginalia" label="Wrong Marginalia" />
+    <class xml:id="wrong_fformat" label="Wrong Font Format" />
+    <class xml:id="missing_fformat" label="Missing Font Format" />
+    <class xml:id="uncertain" label="Uncertain" />
+  <!--     <class xml:id="archaic" label="Archaic Spelling" /> --> 
+  <!--     <class xml:id="nonworderror" label="Non-word error" />  -->
+<!--     <class xml:id="confusion" label="Real-word confusion" />  -->
+</set>
