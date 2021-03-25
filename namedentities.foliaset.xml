@@ -19,9 +19,10 @@
         <class xml:id="dterm.oth" label="dTerm-Other" />
     </class> -->
     <class xml:id="pgelem" label="pageElem" >
-<!--         <class xml:id="pgelem.marg" label="pageElem-Marginalia" /> -->
+        <class xml:id="pgelem.paragr_runon" label="pageElem-ParagraphRunon" />
+        <class xml:id="pgelem.paragr_split" label="pageElem-ParagraphSplit" />
         <class xml:id="pgelem.sig" label="pageElem-Sigle" />
-        <class xml:id="pgelem.div_mark" label="pageElem-Div Mark" /> 
+        <class xml:id="pgelem.div_mark" label="pageElem-DivMark" /> 
         <class xml:id="pgelem.footnote" label="pageElem-Footnote" />
         <class xml:id="pgelem.pgnr" label="pageElem-Pagenr" />
         <class xml:id="pgelem.title" label="pageElem-Title" />
