@@ -6,8 +6,8 @@
     <class xml:id="ocr_word_runon" label="Word Runon" />
     <class xml:id="ocr_word_redund" label="Word Redundant" />
     <class xml:id="ocr_word_missing" label="Word Missing" />
-    <class xml:id="ocr_par_split" label="Paragraph Split" />
-    <class xml:id="ocr_par_runon" label="Paragraph Runon" />
+<!--     <class xml:id="ocr_par_split" label="Paragraph Split" /> -->
+<!--     <class xml:id="ocr_par_runon" label="Paragraph Runon" /> -->
     <class xml:id="ocr_space_missing" label="Space Missing" />
     <class xml:id="ocr_space_redundant" label="Space Redundant" />
 <!--     <class xml:id="wrong_punct" label="Punctuation Wrong" /> -->
@@ -15,9 +15,9 @@
 <!--     <class xml:id="redund_punct" label="Punctuation Redundant" />  -->
 <!--     <class xml:id="wrong_alphab" label="Alphabet Wrong" /> -->
 <!--     <class xml:id="wrong_casing" label="Casing Wrong" /> -->
-    <class xml:id="ocr_linebreak_issue" label="Linebreak Issue" />
+<!--     <class xml:id="ocr_linebreak_issue" label="Linebreak Issue" />
     <class xml:id="ocr_marginalia_issue" label="Marginalia Issue" />
-    <class xml:id="ocr_fontformat_issue" label="Font Format Issue" />
+    <class xml:id="ocr_fontformat_issue" label="Font Format Issue" /> -->
 <!--     <class xml:id="missing_fformat" label="Font Format Missing" /> -->
     <class xml:id="other" label="Other" />
   <!--     <class xml:id="archaic" label="Archaic Spelling" /> --> 
