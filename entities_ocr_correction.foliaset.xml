@@ -18,17 +18,21 @@
         <class xml:id="dterm.socpol" label="dTerm-SocioPolitics" />
         <class xml:id="dterm.oth" label="dTerm-Other" />
     </class> -->
-    <class xml:id="pgelem" label="pageElem" >
-        <class xml:id="pgelem.paragr_runon" label="pageElem-ParagraphRunon" />
-        <class xml:id="pgelem.paragr_split" label="pageElem-ParagraphSplit" />
-        <class xml:id="pgelem.sig" label="pageElem-Sigle" />
-        <class xml:id="pgelem.div_mark" label="pageElem-DivMark" /> 
-        <class xml:id="pgelem.footnote" label="pageElem-Footnote" />
-        <class xml:id="pgelem.pgnr" label="pageElem-Pagenr" />
-        <class xml:id="pgelem.title" label="pageElem-Title" />
+<!--     <class xml:id="pageocr" label="pageOCR" > -->
+        <class xml:id="ocr_paragr_runon" label="Paragraph Runon" />
+        <class xml:id="ocr_paragr_split" label="Paragraph Split" />
+        <class xml:id="ocr_linebreak_iss" label="Linebreak Issue" />
+        <class xml:id="ocr_marg_iss" label="Marginalia Issue" />
+        <class xml:id="ocr_fontformat_iss" label="Font Format Issue" />
+<!--         <class xml:id="pgelem_sigle" label="pageElem-Sigle" /> -->
+<!--         <class xml:id="pgelem_divmark" label="pageElem-DivMark" />  -->
+<!--         <class xml:id="pgelem_footnote" label="pageElem-Footnote" /> -->
+<!--         <class xml:id="pgelem_pgnr" label="pageElem-Pagenr" /> -->
+<!--         <class xml:id="pgelem_title" label="pageElem-Title" /> -->
 <!--         <class xml:id="pgelem.app2" label="pageElem-App2" /> -->
-        <class xml:id="pgelem.oth" label="pageElem-Other" />
-     </class>
+<!--         <class xml:id="pgelem.oth" label="pageElem-Other" /> -->
+
+<!--      </class> -->
 <!--      <class xml:id="docelem" label="docElem" > -->
 <!--          <class xml:id="docelem.par_split_wrong" label="docElem-Paragraph Split Wrong" /> -->
 <!--          <class xml:id="docelem.par_runon_wrong" label="docElem-Paragraph Runon Wrong" /> -->
