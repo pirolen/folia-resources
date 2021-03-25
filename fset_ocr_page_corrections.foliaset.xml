@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<set xml:id="ocrcorrection" type="closed" xmlns="http://ilk.uvt.nl/folia">
+<set xml:id="spellingcorrection" type="closed" xmlns="http://ilk.uvt.nl/folia">
     <class xml:id="ocr_regex_target" label="Target for Regex Correction" />
     <class xml:id="ocr_word_misrec" label=" Word Misrecognized" />
     <class xml:id="ocr_word_split" label="Word Split" />
