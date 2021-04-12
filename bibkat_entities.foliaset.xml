@@ -14,8 +14,10 @@
         <class xml:id="per.oth" label="Person-Other" />
     </class>
       <class xml:id="internal_ref" label="Reference" >
-       <class xml:id="internal_ref.pagenr" label="Reference-PageNr" />
+      <class xml:id="internal_ref.pagenr" label="Reference-PageNr" />
       <class xml:id="internal_ref.linenr" label="Reference-LineNr" />
+      <class xml:id="internal_ref.entryterm" label="Reference-EntryTerm" />
+      <class xml:id="internal_ref.altspelling" label="Reference-alternativeSpelling" />
     </class>
 <!--     <class xml:id="dterm" label="dTerm" >
         <class xml:id="dterm.polsci" label="dTerm-PolitScience" />
@@ -25,12 +27,12 @@
         <class xml:id="dterm.socpol" label="dTerm-SocioPolitics" />
         <class xml:id="dterm.oth" label="dTerm-Other" />
     </class> -->
-    <class xml:id="ocrissue" label="ocrissue" >
+<!--     <class xml:id="ocrissue" label="ocrissue" >
         <class xml:id="ocrissue_paragr_runon" label="ocr-ParagraphRunon" />
         <class xml:id="ocrissue_paragr_split" label="ocr-ParagraphSplit" />
         <class xml:id="ocrissue_linebreak_iss" label="ocr-LinebreakIssue" />
       <class xml:id="ocrissue_other_iss" label="ocr-OtherIssue" />
-     </class>
+     </class> -->
 <!--         <class xml:id="ocr_marg_iss" label="Marginalia Issue" /> -->
 <!--         <class xml:id="ocr_fontformat_iss" label="Font Format Issue" /> -->
 <!--         <class xml:id="pgelem_sigle" label="pageElem-Sigle" /> -->
