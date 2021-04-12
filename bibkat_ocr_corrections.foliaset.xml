@@ -20,7 +20,7 @@
     <class xml:id="ocr_fontformat_issue" label="Font Format Issue" />
 <!--     <class xml:id="missing_fformat" label="Font Format Missing" /> -->
     <class xml:id="other" label="Other" />
-      <class xml:id="archaic" label="Archaic Spelling" /> 
+    <class xml:id="archaic" label="Archaic Spelling" /> 
   <!--     <class xml:id="nonworderror" label="Non-word error" />  -->
 <!--     <class xml:id="confusion" label="Real-word confusion" />  -->
 </set>
