@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <set xml:id="spellingcorrection" type="closed" xmlns="http://ilk.uvt.nl/folia">
 <!--     <class xml:id="ocr_regex_target" label="Target for Regex Correction" /> -->
-    <class xml:id="ocr_word_misrec" label=" Word Misrecognized" />
+    <class xml:id="ocr_word_misrec" label="Word Misrecognized" />
 <!--     <class xml:id="ocr_word_split" label="Word Split" /> -->
 <!--     <class xml:id="ocr_word_runon" label="Word Runon" /> -->
 <!--     <class xml:id="ocr_word_redund" label="Word Redundant" /> -->
