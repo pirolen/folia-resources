@@ -11,14 +11,4 @@
     <class xml:id="ocr_fontformat_issue" label="Font Format Issue" />
     <class xml:id="other" label="Other" />
     <class xml:id="archaic" label="Archaic Spelling" />  -->
-<!--     <class xml:id="ocr_word_split" label="Word Split" /> -->
-<!--     <class xml:id="ocr_word_runon" label="Word Runon" /> -->
-<!--     <class xml:id="ocr_word_redund" label="Word Redundant" /> -->
-<!--     <class xml:id="ocr_word_missing" label="Word Missing" /> -->
-<!--     <class xml:id="wrong_punct" label="Punctuation Wrong" /> -->
-<!--     <class xml:id="miss_punct" label="Punctuation Missing" /> -->
-<!--     <class xml:id="redund_punct" label="Punctuation Redundant" />  -->
-<!--     <class xml:id="ocr_regex_target" label="Target for Regex Correction" /> -->
-<!--     <class xml:id="ocr_marginalia_issue" label="Marginalia Issue" /> -->
-<!--     <class xml:id="missing_fformat" label="Font Format Missing" /> -->
 </set>
