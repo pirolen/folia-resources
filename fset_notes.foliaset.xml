@@ -5,5 +5,5 @@
     <class xml:id="attention" label="Attention"/>
     <class xml:id="note" label="Note"/>
     <class xml:id="footn_body" label="Footnote Body"/>
-    <class xml:id="marg_wit" label="Marginalia for Witness"/>
+    <class xml:id="marg_sigle" label="Sigle of historical pagination on margin"/>
 </set>
