@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set xml:id="abbrev_entities" type="closed" xmlns="http://ilk.uvt.nl/folia">
+    <class xml:id="abbreviation" label="abbrev"/>
+    <class xml:id="spell_variant_1" label="spell_var1"/>
+    <class xml:id="spell_variant_2" label="spell_var2"/>
+    <class xml:id="spell_variant_3" label="spell_var3"/>
+</set>
