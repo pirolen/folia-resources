@@ -4,6 +4,7 @@
    <class xml:id="spell_variant_1" label="spell_var1" />
    <class xml:id="spell_variant_2" label="spell_var2" />
    <class xml:id="spell_variant_3" label="spell_var3" />
+   <class xml:id="full_form" label="fullform" />
    <class xml:id="ocr" label="ocr" />
    <class xml:id="normalized" label="normalized" />
    <class xml:id="translated" label="translated" />
