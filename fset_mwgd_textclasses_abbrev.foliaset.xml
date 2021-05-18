@@ -4,8 +4,8 @@
    <class xml:id="variant" label="variant" />
    <class xml:id="fullform" label="fullform" />
    <class xml:id="translation" label="translation" />
-   <class xml:id="volume_source" label="volume_source" />
-   <class xml:id="volume_loc" label="volume_loc" />
+   <class xml:id="source_vol" label="source_vol" />
+   <class xml:id="vol_loc" label="vol_loc" />
    <class xml:id="litindex_loc" label="litindex_loc" />
    <class xml:id="sourcereg_loc" label="sourcereg_loc" />
    <class xml:id="ocr" label="ocr" />
