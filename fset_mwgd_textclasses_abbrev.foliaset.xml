@@ -4,10 +4,10 @@
    <class xml:id="variant" label="variant" />
    <class xml:id="fullform" label="fullform" />
    <class xml:id="translation" label="translation" />
-   <class xml:id="mention_volume" label="mention" />
-   <class xml:id="link_volume" label="link_vol" />
-   <class xml:id="link_litreg" label="link_litreg" />
-   <class xml:id="link_sourcereg" label="link_sourcereg" />
+   <class xml:id="volume_source" label="volume_source" />
+   <class xml:id="volume_loc" label="volume_loc" />
+   <class xml:id="litindex_loc" label="litindex_loc" />
+   <class xml:id="sourcereg_loc" label="sourcereg_loc" />
    <class xml:id="ocr" label="ocr" />
    <class xml:id="normalized" label="normalized" />
    <class xml:id="current" label="current" />  
