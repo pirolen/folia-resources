@@ -8,6 +8,7 @@
    <class xml:id="vol_loc" label="vol_loc" />
    <class xml:id="litindex_loc" label="litindex_loc" />
    <class xml:id="sourcereg_loc" label="sourcereg_loc" />
+   <class xml:id="points_to" label="points_to" />
    <class xml:id="ocr" label="ocr" />
    <class xml:id="normalized" label="normalized" />
    <class xml:id="current" label="current" />  
