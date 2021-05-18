@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <set xml:id="text_mwgd" type="closed" xmlns="http://ilk.uvt.nl/folia">
    <class xml:id="abbrev" label="abbrev" />
-   <class xml:id="stringvariant" label="str_var" />
+   <class xml:id="variant" label="variant" />
    <class xml:id="fullform" label="fullform" />
    <class xml:id="translation" label="translation" />
-   <class xml:id="mention_vol" label="mention" />
-   <class xml:id="link_vol" label="link_vol" />
+   <class xml:id="mention_volume" label="mention" />
+   <class xml:id="link_volume" label="link_vol" />
    <class xml:id="link_litreg" label="link_litreg" />
    <class xml:id="link_sourcereg" label="link_sourcereg" />
    <class xml:id="ocr" label="ocr" />
