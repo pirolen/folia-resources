@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <set xml:id="text_mwgd" type="closed" xmlns="http://ilk.uvt.nl/folia">
-   <class xml:id="abbrev" label="abbrev" />
+   <class xml:id="abbreviation" label="abbrev" />
+   <class xml:id="lit_reference" label="litref" />
    <class xml:id="variant" label="variant" />
    <class xml:id="fullform" label="fullform" />
    <class xml:id="translation" label="translation" />
-   <class xml:id="source_vol" label="source_vol" />
-   <class xml:id="vol_loc" label="vol_loc" />
+   <class xml:id="source_volume" label="sourcevol" />
+   <class xml:id="volume_loc" label="vol_loc" />
    <class xml:id="litindex_loc" label="litindex_loc" />
    <class xml:id="sourcereg_loc" label="sourcereg_loc" />
    <class xml:id="points_to" label="points_to" />
+   <class xml:id="has_space" label="has_space" />
    <class xml:id="ocr" label="ocr" />
    <class xml:id="normalized" label="normalized" />
    <class xml:id="current" label="current" />  
