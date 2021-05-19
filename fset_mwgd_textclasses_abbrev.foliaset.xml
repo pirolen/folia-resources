@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<set xml:id="text_mwgd" type="closed" xmlns="http://ilk.uvt.nl/folia">
+<set xml:id="mwgd_textcontent" type="closed" xmlns="http://ilk.uvt.nl/folia">
    <class xml:id="abbreviation" label="abbrev" />
    <class xml:id="lit_reference" label="litref" />
    <class xml:id="variant" label="variant" />
@@ -10,7 +10,7 @@
    <class xml:id="litindex_loc" label="litindex_loc" />
    <class xml:id="sourcereg_loc" label="sourcereg_loc" />
    <class xml:id="points_to" label="points_to" />
-   <class xml:id="has_space" label="has_space" />
+   <class xml:id="has_smallspace" label="has_space" />
    <class xml:id="ocr" label="ocr" />
    <class xml:id="normalized" label="normalized" />
    <class xml:id="current" label="current" />  
