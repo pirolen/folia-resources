@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set xml:id="mbk_textcontent" type="closed" xmlns="http://ilk.uvt.nl/folia">
+   <class xml:id="head" label="head" />
+<!--    <class xml:id="author" label="author" />
+   <class xml:id="work" label="work" />
+   <class xml:id="keyword" label="keyword" />
+   <class xml:id="variant" label="variant" /> -->
+   <class xml:id="points_to" label="points_to" />
+   <class xml:id="ref_page" label="refpage" />
+   <class xml:id="ref_line" label="refline" />
+   <class xml:id="ocr" label="ocr" />
+   <class xml:id="normalized" label="normalized" />
+   <class xml:id="current" label="current" />  
+</set>
