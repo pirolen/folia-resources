@@ -5,9 +5,10 @@
    <class xml:id="work" label="work" />
    <class xml:id="keyword" label="keyword" />
    <class xml:id="variant" label="variant" /> -->
+   <class xml:id="witness" label="witness" />
    <class xml:id="points_to" label="points_to" />
-   <class xml:id="ref_page" label="refpage" />
-   <class xml:id="ref_line" label="refline" />
+<!--    <class xml:id="ref_page" label="refpage" />
+   <class xml:id="ref_line" label="refline" /> -->
    <class xml:id="ocr" label="ocr" />
    <class xml:id="normalized" label="normalized" />
    <class xml:id="current" label="current" />  
