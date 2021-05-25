@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <set xml:id="mwgd_textcontent" type="closed" xmlns="http://ilk.uvt.nl/folia">
    <class xml:id="abbreviation" label="abbrev" />
-   <class xml:id="lit_reference" label="litref" />
+   <class xml:id="citation" label="citat" />
    <class xml:id="variant" label="variant" />
    <class xml:id="fullform" label="fullform" />
    <class xml:id="translation" label="translation" />
