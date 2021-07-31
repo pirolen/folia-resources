@@ -5,6 +5,7 @@
     <class xml:id="work" label="Work" /> 
     <class xml:id="author" label="Author" />
     <class xml:id="keyword" label="Keyword" />
+    <class xml:id="title" label="Title" />
     <class xml:id="source" label="Source" />      
     <class xml:id="sref.pagenr" label="PageNr" />
     <class xml:id="sref.linenr" label="LineNr" />
