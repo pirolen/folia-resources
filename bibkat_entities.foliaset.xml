@@ -1,27 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <set xml:id="namedentities" type="closed" xmlns="http://ilk.uvt.nl/folia" conceptlink="http://www.isocat.org/datcat/DC-2275">
     <!-- NOTE: test version of named entities -->
-<!--     <class xml:id="loc" label="Location" />    
-<!--     <class xml:id="org" label="Organisation" conceptlink="http://www.isocat.org/datcat/DC-2979" /> -->
-    <class xml:id="publ" label="Publication" >
-       <class xml:id="publ.prefName" label="Publication-preferredName" />
-      <class xml:id="publ.altName" label="Publication-alternativeName" />
-    </class> -->
- <class xml:id="lemma" label="Lemma" />  
- <class xml:id="work" label="Work" /> 
- <class xml:id="author" label="Author" />
- <class xml:id="keyword" label="Keyword" />
- <class xml:id="source" label="Source" />      
-<!--     <class xml:id="per" label="Person" conceptlink="http://www.isocat.org/datcat/DC-2978" > -->
-<!--         <class xml:id="per.auth" label="Person-Author" /> -->
-<!--         <class xml:id="per.hist" label="Person-Historical" /> -->
-<!--         <class xml:id="per.oth" label="Person-Other" /> -->
-<!--     </class> -->
-<!--       <class xml:id="Source_ref" label="LocReference" > -->
-  <class xml:id="sref.pagenr" label="PageNr" />
-  <class xml:id="sref.linenr" label="LineNr" />
-  <class xml:id="pointer.entryterm" label="PointerToLemma" />
-<!--   <class xml:id="altspelling" label="AltSpelling" /> -->
-<!--     </class> -->
-
+    <class xml:id="lemma" label="Lemma" />  
+    <class xml:id="work" label="Work" /> 
+    <class xml:id="author" label="Author" />
+    <class xml:id="keyword" label="Keyword" />
+    <class xml:id="source" label="Source" />      
+    <class xml:id="sref.pagenr" label="PageNr" />
+    <class xml:id="sref.linenr" label="LineNr" />
+    <class xml:id="pointer.tolemma" label="PointerToLemma" />
 </set>
