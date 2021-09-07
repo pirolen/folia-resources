@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set xml:id="mbk_labels" type="closed" xmlns="http://ilk.uvt.nl/folia" conceptlink="http://www.isocat.org/datcat/DC-2275">
+    <!-- NOTE: test version of named entities -->
+    <class xml:id="lemAuth" label="Lemma: Autorname" />  
+    <class xml:id="lemWork" label="Lemma: Werktitel" /> 
+    <class xml:id="lemKeyW" label="Lemma: Schlagwort" /> 
+    <class xml:id="subTopic" label="Lemma_Unterelement: thematische Zuordnung zu Lemma" /> 
+    <class xml:id="subWork" label="Lemma_Unterelement: Werktitel" />
+    <class xml:id="refAuth" label="Referenz: Autorbenennung" /> 
+    <class xml:id="refWork" label="Referenz: Werkbenennung" /> 
+    <class xml:id="refPage" label="Referenz: Seite" />
+    <class xml:id="refLine" label="Referenz: Zeile" />
+    <class xml:id="crossref:same_or_hyperlem" label="Querverweis: Inhalt identisch/übergeordnetes Lemma" />
+    <class xml:id="crossref:similar_or_hypolem" label="Querverweis: Inhalt thematisch_relev/gleichgeordnetes Lemma" />
+</set>
