@@ -6,11 +6,11 @@
     <class xml:id="lemKeyW" label="Lemma: Schlagwort" /> 
     <class xml:id="subTopic" label="Lemma_Unterelement: thematische Zuordnung zu Lemma" /> 
     <class xml:id="subWork" label="Lemma_Unterelement: Werktitel" />
-    <class xml:id="subWork" label="Werktitel_Unterelement: Ergänzung" />
-    <class xml:id="refAuth" label="Referenz: Autorbenennung" /> 
-    <class xml:id="refWork" label="Referenz: Werkbenennung" /> 
-    <class xml:id="refPage" label="Werktitel_Referenz: Seite" />
-    <class xml:id="refLine" label="Werktitel_Referenz: Zeile" />
-    <class xml:id="crossref:same_or_hyperlem" label="Querverweis: Inhalt identisch/übergeordnetes Lemma" />
-    <class xml:id="crossref:similar_or_hypolem" label="Querverweis: Inhalt thematisch_relev/gleichgeordnetes Lemma" />
+    <class xml:id="subComplem" label="Werktitel_Unterelement: Ergänzung" />
+    <class xml:id="refLemAuth:NameVar" label="Referenz_Lemma_Autorname: Autorbenennung" /> 
+    <class xml:id="refWork:NameVar" label="Referenz_Werktitel: Werkbenennung" /> 
+    <class xml:id="refWork:Page" label="Referenz_Werktitel: Seite" />
+    <class xml:id="refWork:Line" label="Referenz_Werktitel: Zeile" />
+    <class xml:id="crossref:hyperlem_or_similar" label="Querverweis: übergeordnetes Lemma/Inhalt identisch" />
+    <class xml:id="crossref:hypolem_or_related" label="Querverweis: gleichgeordnetes Lemma/Inhalt thematisch_relev" />
 </set>
