@@ -6,7 +6,7 @@
     <class xml:id="lem:SchlagW" label="Lemma: Schlagwort (Wort im Lemma)" />
     <class xml:id="lem:StichW" label="Lemma: Stichwort (thematische Zuordnung zu Lemma)" />
     <class xml:id="subLem:WorkT" label="Lemma_Unterelement: Werktitel" />
-    <class xml:id="subWorkT:Complem" label="Werktitel_Unterelement: Ergänzung" />
+    <class xml:id="subWorkT:Complem" label="Lemma_Werktitel_Unterelement: Ergänzung" />
     <class xml:id="refLemAuth:NameVar" label="Referenz_Lemma_Autorname: Autorbenennung" /> 
     <class xml:id="refWorkT:NameVar" label="Referenz_Werktitel: Werkbenennung" /> 
     <class xml:id="refWorkT:Page" label="Referenz_Werktitel: Seite" />
