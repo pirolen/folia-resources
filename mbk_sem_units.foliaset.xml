@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <set xml:id="mbk_labels" type="closed" xmlns="http://ilk.uvt.nl/folia" conceptlink="http://www.isocat.org/datcat/DC-2275">
     <!-- NOTE: test version of named entities -->
-    <class xml:id="lemAuth" label="Lemma: Autorname" />  
-    <class xml:id="lemWork" label="Lemma: Werktitel" /> 
-    <class xml:id="lemSchlagW" label="Lemma: Schlagwort (Wort im Lemma)" />
-    <class xml:id="lemStichW" label="Lemma: Stichwort (thematische Zuordnung zu Lemma)" />
-<!--     <class xml:id="subTopic" label="Lemma_Unterelement: thematische Zuordnung zu Lemma" />  -->
-    <class xml:id="subWork" label="Lemma_Unterelement: Werktitel" />
-    <class xml:id="subComplem" label="Werktitel_Unterelement: Ergänzung" />
+    <class xml:id="lem:Auth" label="Lemma: Autorname" />  
+    <class xml:id="lem:WorkT" label="Lemma: Werktitel" /> 
+    <class xml:id="lem:SchlagW" label="Lemma: Schlagwort (Wort im Lemma)" />
+    <class xml:id="lem:StichW" label="Lemma: Stichwort (thematische Zuordnung zu Lemma)" />
+    <class xml:id="subLem:WorkT" label="Lemma_Unterelement: Werktitel" />
+    <class xml:id="subWorkT:Complem" label="Werktitel_Unterelement: Ergänzung" />
     <class xml:id="refLemAuth:NameVar" label="Referenz_Lemma_Autorname: Autorbenennung" /> 
-    <class xml:id="refWork:NameVar" label="Referenz_Werktitel: Werkbenennung" /> 
-    <class xml:id="refWork:Page" label="Referenz_Werktitel: Seite" />
-    <class xml:id="refWork:Line" label="Referenz_Werktitel: Zeile" />
+    <class xml:id="refWorkT:NameVar" label="Referenz_Werktitel: Werkbenennung" /> 
+    <class xml:id="refWorkT:Page" label="Referenz_Werktitel: Seite" />
+    <class xml:id="refWorkT:Line" label="Referenz_Werktitel: Zeile" />
     <class xml:id="crossref:hyperlem_or_similar" label="Querverweis: übergeordnetes Lemma/Inhalt identisch" />
     <class xml:id="crossref:hypolem_or_related" label="Querverweis: gleichgeordnetes Lemma/Inhalt thematisch_relev" />
 </set>
