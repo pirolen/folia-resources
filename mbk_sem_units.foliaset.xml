@@ -3,8 +3,9 @@
     <!-- NOTE: test version of named entities -->
     <class xml:id="lemAuth" label="Lemma: Autorname" />  
     <class xml:id="lemWork" label="Lemma: Werktitel" /> 
-    <class xml:id="lemKeyW" label="Lemma: Schlagwort" /> 
-    <class xml:id="subTopic" label="Lemma_Unterelement: thematische Zuordnung zu Lemma" /> 
+    <class xml:id="lemSchlagW" label="Lemma: Schlagwort (Wort im Lemma)" />
+    <class xml:id="lemStichW" label="Lemma: Stichwort (thematische Zuordnung zu Lemma)" />
+<!--     <class xml:id="subTopic" label="Lemma_Unterelement: thematische Zuordnung zu Lemma" />  -->
     <class xml:id="subWork" label="Lemma_Unterelement: Werktitel" />
     <class xml:id="subComplem" label="Werktitel_Unterelement: Ergänzung" />
     <class xml:id="refLemAuth:NameVar" label="Referenz_Lemma_Autorname: Autorbenennung" /> 
