@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<set xml:id="spellingcorrection" type="closed" xmlns="http://ilk.uvt.nl/folia">
-    <class xml:id="ocr_word_misrec" label="Word Misrecognized" />
-    <class xml:id="ocr_par_split" label="Paragraph Split" />
-    <class xml:id="ocr_par_runon" label="Paragraph Runon" />
-    <class xml:id="ocr_space_missing" label="Space Missing" />
-    <class xml:id="ocr_space_redundant" label="Space Redundant" />
-    <class xml:id="wrong_alphab" label="Alphabet Wrong" />
-    <class xml:id="wrong_casing" label="Casing Wrong" />
-    <class xml:id="ocr_linebreak_issue" label="Linebreak Issue" />
-    <class xml:id="ocr_fontformat_issue" label="Font Format Issue" />
-    <class xml:id="archaic" label="Archaic Spelling" />  -->
+<set xml:id="mbk_ocr_correction" type="closed" xmlns="http://ilk.uvt.nl/folia">
+    <class xml:id="other" label="Multiple" />
+    <class xml:id="word_misrec" label="Word Misrecognized" />
+    <class xml:id="par_split" label="Paragraph Split" />
+    <class xml:id="par_runon" label="Paragraph Runon" />
+    <class xml:id="space_missing" label="Space Missing" />
+    <class xml:id="space_redundant" label="Space Redundant" />
+<!--     <class xml:id="wrong_alphab" label="Alphabet Wrong" /> -->
+<!--     <class xml:id="wrong_casing" label="Casing Wrong" /> -->
+    <class xml:id="linebreak_issue" label="Linebreak Issue" />
+    <class xml:id="fontformat_issue" label="Font Format: Italic" />
+    <class xml:id="fontformat_issue" label="Font Format: Superscript" />
+<!--     <class xml:id="fontformat_issue" label="Font Format Issue" /> -->
+<!--     <class xml:id="archaic" label="Archaic Spelling" />  --> -->
     <class xml:id="other" label="Other" />
 </set>
