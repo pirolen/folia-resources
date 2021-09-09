@@ -13,4 +13,8 @@
     <class xml:id="refWorkT:Line" label="Referenz_Werktitel: Zeile" />
     <class xml:id="crossref:hyperlem_or_similar" label="Querverweis: übergeordnetes Lemma/Inhalt identisch" />
     <class xml:id="crossref:hypolem_or_related" label="Querverweis: gleichgeordnetes Lemma/Inhalt thematisch_relev" />
+    <class xml:id="ff:italic" label="Font Format: Italic" />
+    <class xml:id="ff:superscr" label="Font Format: Superscript" />
+    <class xml:id="parcorr:End" label="Paragraph End" />
+    <class xml:id="parcorr:Start" label="Paragraph Start" />
 </set>
