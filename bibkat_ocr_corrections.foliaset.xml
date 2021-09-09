@@ -9,8 +9,8 @@
 <!--     <class xml:id="wrong_alphab" label="Alphabet Wrong" /> -->
 <!--     <class xml:id="wrong_casing" label="Casing Wrong" /> -->
     <class xml:id="linebreak_issue" label="Linebreak Issue" />
-    <class xml:id="fontformat_issue" label="Font Format: Italic" />
-    <class xml:id="fontformat_issue" label="Font Format: Superscript" />
+<!--     <class xml:id="ff_italic" label="Font Format: Italic" />
+    <class xml:id="ff_superscr" label="Font Format: Superscript" /> -->
 <!--     <class xml:id="fontformat_issue" label="Font Format Issue" /> -->
 <!--     <class xml:id="archaic" label="Archaic Spelling" />  --> -->
     <class xml:id="other" label="Other" />
