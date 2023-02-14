@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set xml:id="namedentities" type="closed" xmlns="http://ilk.uvt.nl/folia" conceptlink="http://www.isocat.org/datcat/DC-2275">
+    <!-- NOTE: test version of named entities -->
+    <class xml:id="explgloss" label="ExplanatoryGloss" />  
+    <class xml:id="conjemend" label="ConjecturalEmendation" /> 
+    <class xml:id="bibadd" label="BibliographicAddenda" />   
+    <class xml:id="refpage" label="PageNr" />
+    <class xml:id="refvol" label="VolNr" />
+</set>
