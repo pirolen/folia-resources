@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set xml:id="namedentities" type="closed" xmlns="https://github.com/pirolen/" >
+    <class xml:id="reg" label="Region" conceptlink="http://www.isocat.org/datcat/DC-2978" />
+       <class xml:id="per.auth" label="Person - South" />
+        <class xml:id="per.hist" label="Person - East" />
+        </class>
+    <class xml:id="cent" label="Century" >
+        <class xml:id="cent.10" label="10" />
+        <class xml:id="cent.11" label="11" />
+      <class xml:id="cent.15" label="15" />
+      <class xml:id="cent.16" label="16" />
+      <class xml:id="cent.17" label="17" />
+      <class xml:id="cent.18" label="18" />
+        </class>
+</set>
