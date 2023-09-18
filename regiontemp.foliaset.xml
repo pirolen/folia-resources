@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <set xml:id="qs-geoloc-ner" type="closed" xmlns="http://ilk.uvt.nl/folia" conceptlink="http://www.isocat.org/datcat/DC-2275">
-    <class xml:id="loc.south" label="south"  />
-    <class xml:id="loc.east" label="east" />
-    <class xml:id="cent.10" label="10th cc." />
-    <class xml:id="cent.11" label="11th cc." />
-    <class xml:id="cent.15" label="15th cc." />
-  <class xml:id="cent.16" label="16th cc." />
-  <class xml:id="cent.17" label="17th cc." />
-  <class xml:id="cent.18" label="18th cc." />
+    <class xml:id="rec.south" label="south"  />
+    <class xml:id="rec.east" label="east" />
+    <class xml:id="c.10" label="10th cc." />
+    <class xml:id="c.11" label="11th cc." />
+    <class xml:id="c.15" label="15th cc." />
+  <class xml:id="c.16" label="16th cc." />
+  <class xml:id="c.17" label="17th cc." />
+  <class xml:id="c.18" label="18th cc." />
 </set>
