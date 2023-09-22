@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set xml:id="qs_correction" type="closed" xmlns="http://ilk.uvt.nl/folia">
+    <class xml:id="other" label="multiple" />
+    <class xml:id="word_misrec" label="Word Misrecognized" />
+<!--     <class xml:id="par_split" label="Paragraph Split" />
+    <class xml:id="par_runon" label="Paragraph Runon" /> -->
+    <class xml:id="space_missing" label="Space Missing" />
+    <class xml:id="space_redundant" label="Space Redundant" />
+    <class xml:id="wrong_alphab" label="Alphabet Wrong" />
+    <class xml:id="wrong_casing" label="Casing Wrong" />
+    <class xml:id="linebreak_issue" label="Linebreak Issue" />
+    <class xml:id="archaic" label="Archaic Spelling" /> 
+    <class xml:id="other" label="Other" />
+</set>
