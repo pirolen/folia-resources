@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set xml:id="qs_textclass" type="closed" xmlns="http://ilk.uvt.nl/folia">
+   <class xml:id="prov.copy" label="copiedtext" /> -->
+   <class xml:id="prov.source" label="sourcetext" />
+   <class xml:id="htr" label="htr" />
+   <class xml:id="norm.ortho" label="normalized orthography" />
+</set>
