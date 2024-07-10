@@ -5,11 +5,15 @@
         <class xml:id="reg.east" label="east" />
         </class>
     <class xml:id="cent" label="Century" >
-        <class xml:id="cent.10" label="10" />
-        <class xml:id="cent.11" label="11" />
-      <class xml:id="cent.15" label="15" />
-      <class xml:id="cent.16" label="16" />
-      <class xml:id="cent.17" label="17" />
-      <class xml:id="cent.18" label="18" />
+        <class xml:id="c.9" label="9" />
+        <class xml:id="c.10" label="10" />
+        <class xml:id="c.11" label="11" />
+        <class xml:id="c.12" label="12" />
+        <class xml:id="c.13" label="13" />
+        <class xml:id="c.14" label="14" />
+      <class xml:id="c.15" label="15" />
+      <class xml:id="c.16" label="16" />
+      <class xml:id="c.17" label="17" />
+      <class xml:id="c.18" label="18" />
         </class>
 </set>
